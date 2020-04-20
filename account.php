@@ -78,7 +78,7 @@
               <button class="btn btn-outline-secondary btn-lg" style="margin-right: 100px">
                 <!-- Affichage "Vendre" si vendeur-->
                 <?php if($currentUser["role"]): ?>
-                  <a href="Achat_HTML.html">Pour vendre un objet c'est ici</a>
+                  <a href="vente.php">Pour vendre un objet c'est ici</a>
                 <!-- Affichage "Acheter" si acheteur-->
                 <?php else: ?>
                   <a href="achat.php">Pour acheter un objet c'est ici</a>
