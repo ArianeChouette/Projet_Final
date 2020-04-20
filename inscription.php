@@ -84,7 +84,7 @@
   </div>
 
   <!--Permet l'accession à la charte-->
-  <p>Pour aller à la charte, <a href="#charte">cliquez ici</a></p>
+  <p>Pour aller à la charte, <a href="charte.php">cliquez ici</a></p>
 
   <!--Bouton de soumission de l'inscription-->
   <tr colspan="2">
