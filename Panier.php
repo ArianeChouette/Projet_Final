@@ -93,7 +93,7 @@
             <h4> Prix total : <?= $total ?> €</h4><br>
 
             <!--Bouton de validation du panier-->
-            <button class="btn"><a href="Paiement_HTML.html">Valider mon panier</a></button>
+            <button class="btn"><a href="Livraison.php">Valider mon panier</a></button>
           </div>
 
         </div>
