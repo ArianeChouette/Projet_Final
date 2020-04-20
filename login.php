@@ -48,7 +48,7 @@
      <div class="Texte_Superpose well">
        <h1>Identification :</h1>
        <p>Si vous possédez déjà un compte identifiez vous ci-dessous.<br>
-          Si c'est votre première connexion afin de créer un compte,<a href="Formulaire_Inscription.php" title="Créer un compte" target="_blank"> cliquez ici</a></p>
+          Si c'est votre première connexion afin de créer un compte,<a href="inscription.php" title="Créer un compte" target="_blank"> cliquez ici</a></p>
 
        <!-- Création du formulaire d'accès en fonction du statut : Admin/Acheteur/Vendeur-->
        <div class="Acces" style="padding-left: 18%;">
